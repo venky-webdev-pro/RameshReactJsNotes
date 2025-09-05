@@ -2,7 +2,7 @@
 
 ## 1. Is JSX mandatory for React?
 
-No, JSX is not mandatory for React. React can work without JSX by using `React.createElement()`. However, JSX makes the code more readable, easier to write, and is commonly used in React applications.
+No, JSX is not mandatory for React. React can work without JSX by using `React.createElement()`. However, JSX makes the code more readable, easier to write, and is commonly used in  functional based React applications.
 
 ---
 
